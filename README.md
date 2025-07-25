@@ -56,7 +56,7 @@ Estimated shape (`k`) and scale (`c`) parameters for:
 
 ### Goodness-of-Fit Tests
 
-* **Goodness-of-Fit Tests Kolmogorov-Smirnov (KS) Test: Compared empirical and theoretical CDFs. Akaike Information Criterion (AIC): Lower AIC indicates a better fitting model. Finding: Truncated Weibull Distribution consistently outperformed the standard Weibull model across most months and airports, particularly for Porbandar.
+* Goodness-of-Fit Tests Kolmogorov-Smirnov (KS) Test: Compared empirical and theoretical CDFs. Akaike Information Criterion (AIC): Lower AIC indicates a better fitting model. Finding: Truncated Weibull Distribution consistently outperformed the standard Weibull model across most months and airports, particularly for Porbandar.
 
 **Key Finding**: Truncated Weibull Distribution consistently provided a better fit than standard Weibull—particularly for **Porbandar Airport**.
 
